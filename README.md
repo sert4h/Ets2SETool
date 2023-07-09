@@ -1,4 +1,4 @@
-# ETS 2 Save Dosyası Modifikasyon Aracı
+# Euro Truck Simulator 2 Save Editor Tool
 
 Bu projem, Euro Truck Simulator 2 (ETS 2) oyununda kullanılan save dosyalarını düzenlemek ve tır modifikasyonlarını yapmak için bir araç sunar. Bu tool, aşağıdaki özelliklere sahiptir:
 
