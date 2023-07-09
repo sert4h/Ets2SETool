@@ -21,4 +21,4 @@ Kullanım:
 
 Lisans:
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](link_to_license_file) dosyasını inceleyebilirsiniz.
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
